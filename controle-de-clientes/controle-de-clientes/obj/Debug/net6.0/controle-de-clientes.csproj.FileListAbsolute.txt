@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\2-EstudoProgramacao\BackEnd-Senai\Atividade-controle-clientes\controle-de-clientes\controle-de-clientes\obj\Debug\net6.0\controle-de-clientes.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\2-EstudoProgramacao\BackEnd-Senai\Atividade-controle-clientes\controle-de-clientes\controle-de-clientes\obj\Debug\net6.0\controle-de-clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\2-EstudoProgramacao\BackEnd-Senai\Atividade-controle-clientes\controle-de-clientes\controle-de-clientes\obj\Debug\net6.0\controle-de-clientes.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\2-EstudoProgramacao\BackEnd-Senai\Atividade-controle-clientes\controle-de-clientes\controle-de-clientes\obj\Debug\net6.0\controle-de-clientes.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\2-EstudoProgramacao\BackEnd-Senai\Atividade-controle-clientes\controle-de-clientes\controle-de-clientes\obj\Debug\net6.0\controle-de-clientes.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\2-EstudoProgramacao\BackEnd-Senai\Atividade-controle-clientes\controle-de-clientes\controle-de-clientes\bin\Debug\net6.0\controle-de-clientes.exe
+C:\Users\Gabriel\Documents\2-EstudoProgramacao\BackEnd-Senai\Atividade-controle-clientes\controle-de-clientes\controle-de-clientes\bin\Debug\net6.0\controle-de-clientes.deps.json
+C:\Users\Gabriel\Documents\2-EstudoProgramacao\BackEnd-Senai\Atividade-controle-clientes\controle-de-clientes\controle-de-clientes\bin\Debug\net6.0\controle-de-clientes.runtimeconfig.json
+C:\Users\Gabriel\Documents\2-EstudoProgramacao\BackEnd-Senai\Atividade-controle-clientes\controle-de-clientes\controle-de-clientes\bin\Debug\net6.0\controle-de-clientes.dll
+C:\Users\Gabriel\Documents\2-EstudoProgramacao\BackEnd-Senai\Atividade-controle-clientes\controle-de-clientes\controle-de-clientes\bin\Debug\net6.0\controle-de-clientes.pdb
+C:\Users\Gabriel\Documents\2-EstudoProgramacao\BackEnd-Senai\Atividade-controle-clientes\controle-de-clientes\controle-de-clientes\obj\Debug\net6.0\controle-de-clientes.dll
+C:\Users\Gabriel\Documents\2-EstudoProgramacao\BackEnd-Senai\Atividade-controle-clientes\controle-de-clientes\controle-de-clientes\obj\Debug\net6.0\refint\controle-de-clientes.dll
+C:\Users\Gabriel\Documents\2-EstudoProgramacao\BackEnd-Senai\Atividade-controle-clientes\controle-de-clientes\controle-de-clientes\obj\Debug\net6.0\controle-de-clientes.pdb
+C:\Users\Gabriel\Documents\2-EstudoProgramacao\BackEnd-Senai\Atividade-controle-clientes\controle-de-clientes\controle-de-clientes\obj\Debug\net6.0\controle-de-clientes.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\2-EstudoProgramacao\BackEnd-Senai\Atividade-controle-clientes\controle-de-clientes\controle-de-clientes\obj\Debug\net6.0\ref\controle-de-clientes.dll
